@@ -31,6 +31,9 @@ Represents interactive features like forms, search bars, or sliders.
 *Example:* A login form box shows where users will enter details to sign in.
 
 
+Types of Wireframe
+
+
 The wireframes presented in this project are High-Fidelity Wireframes.
 
 Justification:
