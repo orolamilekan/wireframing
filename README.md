@@ -72,3 +72,23 @@ Wireframes can be divided into two main types:
 - Used later in the design process, often before prototyping or UI design.  
 
  Example: A detailed wireframe that looks almost like the final website, showing actual text, styled buttons, and layout.
+
+
+ Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each offering unique features to help designers visualize and plan their projects. Some commonly used tools include:
+
+- **Balsamiq** – Great for quick, sketch-like wireframes that keep the focus on structure rather than details.  
+- **Adobe XD** – Powerful tool for both wireframing and prototyping, with strong design features.  
+- **Sketch** – Popular among Mac users for UI/UX design.  
+- **Figma** – A web-based tool that allows real-time collaboration and is very popular for wireframing and prototyping.  
+
+ Why Figma?
+Figma is one of the most recommended wireframing tools because:  
+- It’s **free to start** and works in the browser (no need to install heavy software).  
+- It allows **real-time collaboration** — multiple people can work on the same file at once.  
+- It’s **cross-platform** (Windows, Mac, Linux, and even mobile).  
+- You can design **low-fidelity wireframes** (simple shapes and layouts) and also scale up to **high-fidelity prototypes** with colors, fonts, and interactions.  
+- It integrates easily with other tools and is widely used in professional design teams.
+
+👉 In short, Figma makes it easy to go from **ideas → wireframes → prototypes** all in one place.
