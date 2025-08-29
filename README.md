@@ -30,3 +30,15 @@ Highlights where text, images, or videos will appear.
 Represents interactive features like forms, search bars, or sliders.  
 *Example:* A login form box shows where users will enter details to sign in.
 
+
+The wireframes presented in this project are High-Fidelity Wireframes.
+
+Justification:
+
+The screens in the image show real UI components such as images, buttons, input fields, and text.
+
+Each screen has a clear layout that reflects an actual application design (e.g., Splash, Sign In, Home, Detail, Reservation).
+
+The wireframes use color, real branding, and content that simulates the final product.
+
+These high-fidelity wireframes are likely being used in the final stages of the design phase to hand off to developers or to demonstrate a functional prototype for feedback.
