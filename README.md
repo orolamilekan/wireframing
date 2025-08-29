@@ -33,6 +33,8 @@ Represents interactive features like forms, search bars, or sliders.
 
 
 
+
+
 Types of Wireframe
 
 The wireframes presented in this project are High-Fidelity Wireframes.
