@@ -35,6 +35,7 @@ Represents interactive features like forms, search bars, or sliders.
 
 
 
+
 Types of Wireframe
 
 The wireframes presented in this project are High-Fidelity Wireframes.
@@ -48,3 +49,26 @@ Each screen has a clear layout that reflects an actual application design (e.g.,
 The wireframes use color, real branding, and content that simulates the final product.
 
 These high-fidelity wireframes are likely being used in the final stages of the design phase to hand off to developers or to demonstrate a functional prototype for feedback.
+
+
+
+
+ Types of Wireframes
+
+Wireframes can be divided into two main types:
+
+### 1. Low-Fidelity Wireframes
+- Simple, sketch-like representations of a design.  
+- Usually black and white, with boxes for images and lines for text.  
+- Focus on **layout and structure** rather than details.  
+- Useful in the **early stages** of design to brainstorm and get feedback quickly.  
+
+ Example: A rough sketch of a website with placeholders saying “Header,” “Menu,” “Image here,” “Button.”
+
+### 2. High-Fidelity Wireframes
+- More polished and closer to the actual design.  
+- Includes fonts, colors, spacing, and sometimes clickable interactions.  
+- Focus on **visual design and user experience details.**  
+- Used later in the design process, often before prototyping or UI design.  
+
+ Example: A detailed wireframe that looks almost like the final website, showing actual text, styled buttons, and layout.
